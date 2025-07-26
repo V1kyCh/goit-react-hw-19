@@ -1,0 +1,16 @@
+.gallery {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.gallery-item {
+    list-style: none;
+    width: 265px;
+}
+.gallery-item button {
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
